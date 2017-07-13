@@ -1,0 +1,69 @@
+header {
+  background-color: teal;
+  font-family: courier,fantasy;
+  font-size: 45px;
+  padding: 20px;
+
+}
+
+.description-boxes {
+  background-color: white;
+  border-style: double;
+  padding: 16px
+}
+
+body {
+  background: rgba(161, 209, 224, 0.45);
+  font-family: Roboto, Helvetica, sans-serif;
+  border: 10px solid #6767a5;
+  padding: 16px
+}
+
+.navigation-tab {
+  background-color: white;
+  border-style: double;
+  padding: 0px
+
+}
+
+h1 {
+  color: black;
+  font-size: 40px
+}
+
+.bio-tab {
+  font-size: 40px
+}
+
+#profile-photo {
+  border-radius: 50%;
+  position: absolute;
+  top: 100px;
+  left: 50%;
+  margin-left: -40px;
+}
+
+h2 {
+  font-weight: lighter;
+  margin: 0;
+  padding-bottom: 16px
+}
+
+nav a {
+  text-decoration: none;
+}
+
+nav {
+  background-color: white;
+  padding: 20px;
+
+}
+
+section {
+  background: white;
+  padding: 16px;
+  margin: 16px;
+  border: 1px solid black;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px gray;
+}
